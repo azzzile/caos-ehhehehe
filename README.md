@@ -1,7 +1,7 @@
 # caos-ehhehehe
 personal project for caos discipline
 
-# HideNSeek
+# HideNSteeg
 
 ---
 
