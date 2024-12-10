@@ -8,6 +8,7 @@ personal project for caos discipline
 Участники: Костромина Елизавета
 
 Ссылка на репозиторий: https://github.com/azzzile/caos-ehhehehe
+В файле otchet_KT2.md какое-то описание проделанной к 14 декабря +- какой-то НО работы (!!!!!!!!!!!!!!!!!!!!!!!)
 
 ---
 ## Задача
